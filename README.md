@@ -1,2 +1,3 @@
 # ADS-Thesis-Project
-Source Code - Predicting Negative Ties 
+Predicting Negative Ties in Social Networks: A Wikipedia Request for Adminship case study combining machine learning, text mining and NLP methods.
+
